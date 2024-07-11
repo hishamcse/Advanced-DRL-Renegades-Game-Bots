@@ -1,10 +1,9 @@
 # Advanced-DRL-Renegades-Game-Bots
 
-<img src="https://www.gymlibrary.dev/_images/montezuma_revenge.gif" height="250"/> <img src="https://media.tenor.com/pKgBbArPChQAAAAC/mario-super.gif" height="250"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LFs0griZFmQBd1Pw_odjoUN1vdxBY1iz3de2HQFxHMHAlqJA9un1zJRQk8F6LuNjFiM&usqp=CAU" height="250"/> 
+<img src="https://docs.diambra.ai/images/envs/sfiii3nData.png" height="250"/> <img src="https://www.gymlibrary.dev/_images/montezuma_revenge.gif" height="250"/> <img src="https://media.tenor.com/pKgBbArPChQAAAAC/mario-super.gif" height="250"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LFs0griZFmQBd1Pw_odjoUN1vdxBY1iz3de2HQFxHMHAlqJA9un1zJRQk8F6LuNjFiM&usqp=CAU" height="250"/> 
   <img src="https://www.gocoder.one/static/unity-ml-agents-soccertwos-b6e8a229df44d79b8d8a559338680026.gif" width="390" height="250"/> <img src="https://www.gymlibrary.dev/_images/kung_fu_master.gif" height="250"/> <img src="https://i.sstatic.net/wgKuG.gif" height="250"/> <img src="https://www.gymlibrary.dev/_images/half_cheetah.gif" height="250"/> <img src="https://www.gymlibrary.dev/_images/hopper.gif" height="250"/>
 <br /> <br />
-A collection of my implemented advanced & complex RL agents for complex games like Soccer, Rubik's Cube, VizDoom, Montezuma, Kungfu-Master, super-mario-bros and more by implementing various DRL algorithms 
-using gym, unity-ml, pygame, sb3, rl-zoo, rubiks_cube_gym and sample factory libraries. I have added some links in **Acknowledgement** section below. 
+A collection of my implemented advanced & complex RL agents for complex games like Soccer, Street Fighter III, Rubik's Cube, VizDoom, Montezuma, Kungfu-Master, super-mario-bros and more by implementing various DRL algorithms using gym, unity-ml, pygame, sb3, rl-zoo, rubiks_cube_gym and sample factory libraries. I have added some links in **Acknowledgement** section below. 
 
 ## DRL-Renegades-Game-Bots
 To see my simple & intermediate agents for relatively simple environments; visit this repository: https://github.com/hishamcse/DRL-Renegades-Game-Bots
@@ -33,6 +32,7 @@ To see my simple & intermediate agents for relatively simple environments; visit
 | HalfCheetah-v4                         | pytorch, decision transformer                                         | Decision Transformer         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-adv-hf-decisiontransformer-halfcheetah-hopper)
 | Hopper-v4                              | pytorch, decision transformer                                         | Decision Transformer         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-adv-hf-decisiontransformer-halfcheetah-hopper)
 | RubiksCube-v0                          | pytorch, gym_rubiks_cube, decision transformer                        | Decision Transformer         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-advanced-decisiontransformer-rubikscube)
+| Street Fighter III                     | diambra, stable-baseline3                                             | PPO                          | Run locally
 
 ## HuggingFace Models
 Find all my traned agents at [hishamcse agents](https://huggingface.co/hishamcse)
@@ -60,3 +60,6 @@ Find all my traned agents at [hishamcse agents](https://huggingface.co/hishamcse
    * [Solve-Rubiks-Cube-using-Transformer](https://github.com/tedtedtedtedtedted/Solve-Rubiks-Cube-Via-Transformer/tree/main)
    * [CubeGPT](https://github.com/tedtedtedtedtedted/Solve-Rubiks-Cube-Via-Transformer/tree/main/CubeGPT)
    * [GymRubiksCube](https://github.com/mgroling/GymRubiksCube)
+   * [Diambra](https://diambra.ai/)
+   * [Diambra Doc](https://docs.diambra.ai/)
+   * [Diambra Tutorial](https://github.com/alexpalms/deep-rl-class/blob/main/units/en/unitbonus3)
