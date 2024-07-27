@@ -33,6 +33,7 @@ To see my simple & intermediate agents for relatively simple environments; visit
 | Hopper-v4                              | pytorch, decision transformer                                         | Decision Transformer         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-adv-hf-decisiontransformer-halfcheetah-hopper)
 | RubiksCube-v0                          | pytorch, gym_rubiks_cube, decision transformer                        | Decision Transformer         | [Link](https://www.kaggle.com/code/syedjarullahhisham/drl-advanced-decisiontransformer-rubikscube)
 | Street Fighter III                     | diambra, stable-baseline3                                             | PPO                          | Run locally
+| Ultimate Mortal Kombat 3               | diambra, stable-baseline3                                             | PPO                          | Run locally
 
 ## HuggingFace Models
 Find all my traned agents at [hishamcse agents](https://huggingface.co/hishamcse)
